@@ -13,8 +13,9 @@
 <version>
 	<application>extendJournalDisplay</application>
 	<type>plugins.generic</type>
-	<release>0.1.0.0</release>
+	<release>0.1.0.1</release>
 	<date>2022-04-14</date>
 	<lazy-load>1</lazy-load>
+	<sitewide>1</sitewide>
 	<class>ExtendJournalDisplayPlugin</class>
 </version>
