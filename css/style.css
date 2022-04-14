@@ -1,0 +1,4 @@
+.pkpDropdown__content {
+	overflow-y: auto;
+	max-height: 85vh;
+}
