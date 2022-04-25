@@ -9,7 +9,7 @@
  * @class CacheBusterPlugin
  * @ingroup plugins_generic_extendjournaldisplay
  *
- * @brief Adds custom css to make journal selection scro
+ * @brief Adds custom css to make journal selection scroll
  */
 class ExtendJournalDisplayPlugin extends GenericPlugin {
 	/**
